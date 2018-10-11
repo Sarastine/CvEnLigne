@@ -33,3 +33,10 @@ h1, h2 {
 .displayNone {
 	display: none;
 }
+.btn-success {
+	margin-bottom: 10px;
+	margin-right: 5px;
+}
+.Tests {
+	border: 2px solid red;
+}
