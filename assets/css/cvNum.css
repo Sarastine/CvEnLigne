@@ -1,0 +1,35 @@
+body {
+	background-color: #333;
+	color: #080;
+}
+.navbar {
+	background-color: #222;
+	color: #080;
+}
+.nav-link {
+	color: #0A0 !important;
+}
+.nav-link:hover {
+	color: #0D0 !important;
+}
+@font-face {
+    font-family: 'LucidaC';
+    src: url('../font/LCALLIG.TTF');
+}
+.calligraphy {
+	font-family: 'LucidaC';
+}
+h1, h2 {
+	font-family: 'courier new';
+	text-align: center;
+}
+.progressBarFont {
+	font-size: 20px;
+	font-family: 'courier new';
+}
+.progress {
+	margin-bottom: 3px;
+}
+.displayNone {
+	display: none;
+}
